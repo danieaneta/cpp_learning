@@ -148,9 +148,6 @@ int main()
 
 //Implementing different functions and a loop for file input + output 
 
-#include <iostream>
-#include <fstream>
-
 void writeFile(std::ofstream&, const char*);
 void readFile(std::ifstream&, const char*);
 
